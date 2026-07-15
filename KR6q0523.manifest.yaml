@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0523/v1
 canonical_location: https://kanripo.org/bkk/KR6q0523/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 知空蘊禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0523_000.yaml, hash: 'sha256:6239fad9e3577e500f547db615fa818f9277530637b39342583e4175f9fe81d8'}
-  - {seq: 1, filename: KR6q0523_001.yaml, hash: 'sha256:d43331555767710578d3088cb0ac347663f329d9a54ba4fca0269f9a2550fcd6'}
-  - {seq: 2, filename: KR6q0523_002.yaml, hash: 'sha256:6d53b1059c1f0b290cc3b109edf3c688bb0e404320fcdd659dd4c52c1bdf673d'}
+  - {seq: 0, filename: KR6q0523_000.yaml, hash: 'sha256:a65fec0f9b4c3d4160a19bc637dae89395aa3965c8cd5effa8e1f8d22dbd00e1'}
+  - {seq: 1, filename: KR6q0523_001.yaml, hash: 'sha256:30c1c3c0bc6ba21deb152fa930cbe895708f9fbc320f0de0d31f2fc0c49ec8b6'}
+  - {seq: 2, filename: KR6q0523_002.yaml, hash: 'sha256:f99c36c5a5652fb78b0e7536c9bfa333780b1007f153cbcca99aa62ca72479b1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0523_000.markers.yaml, hash: 'sha256:f65597edf53b8de58beb0ce9452d769a8fa43d13724c0ba729ce6d1e40f55aa6'}
-  - {seq: 1, role: markers, filename: assets/KR6q0523_001.markers.yaml, hash: 'sha256:6acddad08238d4050233eeebf230dbbd07aebb87eda601bcd0ce246b15ac10f1'}
-  - {seq: 2, role: markers, filename: assets/KR6q0523_002.markers.yaml, hash: 'sha256:7fddb95360bb445643227a62386c40a8d06232499951b5e661897c06cfa6aba4'}
+  - {seq: 0, role: markers, filename: assets/KR6q0523_000.markers.yaml, hash: 'sha256:5d69ef5ae985d55a5b453e2fff62c7a73461f5c9f53d11cbd1d8f4d863961600'}
+  - {seq: 1, role: markers, filename: assets/KR6q0523_001.markers.yaml, hash: 'sha256:9657652f39aa9b6f048ac4d467b42304068aade5a4799bc2ba7d276b77858f47'}
+  - {seq: 2, role: markers, filename: assets/KR6q0523_002.markers.yaml, hash: 'sha256:df1ebb9438f74b39e546e852841bbff6c54f242da263d286eca0f1938151a75b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -759,4 +759,7 @@ table_of_contents:
   label: 臺山隱居歌
   type: mulu
   level: 1
-hash: sha256:73085a7750ccd6e35b7f514d95d41b1205135283900355bd2ad7c44cf93821c2
+hash: sha256:685f5c99dc91b846f54e3e630e1ca08bc8e4a4dae3675969fd1066403cb3281d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

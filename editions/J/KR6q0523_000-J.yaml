@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0523/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 知空蘊禪師語錄序
   hash: sha256:845204811d5956ec35409ab0b2c7c0411f10db1f187cc21f880e8ce38c0734b5
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0523_J_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 知空蘊禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J37/J37nB400.xml
     old_id: J37nB400
-hash: sha256:6239fad9e3577e500f547db615fa818f9277530637b39342583e4175f9fe81d8
+hash: sha256:b1c272df14098bd33c4c9724190f827aa87251ce25a84c06f3531bac671bc0ee
